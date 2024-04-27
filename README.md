@@ -1,4 +1,4 @@
-# Ecommerce_sales_powerbi_projet
+# Ecommerce_sales_powerbi_project
 "Created a dynamic Power BI dashboard for Madhav Store"
 # Objective:
 Goal was to make a dashboard that Madhav Store could use to see how well they're doing with their online sales across India.

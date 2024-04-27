@@ -1,13 +1,13 @@
 # Ecommerce_sales_powerbi_projet
 "Created a dynamic Power BI dashboard for Madhav Store"
 # Objective:
-Our goal was to make a dashboard that Madhav Store could use to see how well they're doing with their online sales across India.
+Goal was to make a dashboard that Madhav Store could use to see how well they're doing with their online sales across India.
 
 # Dataset Description:
-We had data about orders and details like what people bought, where they live, and how they paid.
+It has data about orders and details like what people bought, where they live, and how they paid.
 
 # Insights:
-Here's what we found out:
+Here's what I had found out:
 
 1. Maharashtra and Madhya Pradesh made the most profit.
 2. A guy named Harivansh was the biggest spender, dropping almost 10K INR.
@@ -17,15 +17,16 @@ Here's what we found out:
 6. Overall, Madhav Store made 37k INR in profit.
 
 # Output
+![Screenshot 2024-04-27 175516](https://github.com/agarwal-varsha/Ecommerce_sales_powerbi_projet/assets/166792795/64c8fe51-34e7-4914-ac0b-9293bec3b7b8)
 
 # Learning Outcomes:
 During the project, I learned to:
 
-Make a dashboard that lets you look at sales data in different ways.
-1. Use filters and slicers to zoom in on specific info.
-2. Connect different parts of the data and do calculations to make it useful.
-3. Add cool new stuff to the data to understand it better.
-4. Make pretty charts and graphs to show the data.
+1. Make a dashboard that lets you look at sales data in different ways.
+2. Use filters and slicers to zoom in on specific info.
+3. Connect different parts of the data and do calculations to make it useful.
+4. Add cool new stuff to the data to understand it better.
+5. Make pretty charts and graphs to show the data.
 
 # Dashboard Features:
 The dashboard had:
@@ -36,7 +37,7 @@ The dashboard had:
 4. Details about which products sold the most and made the most money.
 
 # Project Insights:
-We found out:
+I found out:
 
 1. Most people love buying clothes, electronics, and furniture.
 2. Madhav Store makes the most money in January-April and December.

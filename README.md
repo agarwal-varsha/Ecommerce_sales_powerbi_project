@@ -1,13 +1,13 @@
 # Ecommerce_sales_powerbi_project
-"Created a dynamic Power BI dashboard for Madhav Store"
+"Created a dynamic Power BI dashboard for the Madhav Store"
 # Objective:
-Goal was to make a dashboard that Madhav Store could use to see how well they're doing with their online sales across India.
+The Goal was to make a dashboard that Madhav Store could use to see how well they're doing with their online sales across India.
 
 # Dataset Description:
 It has data about orders and details like what people bought, where they live, and how they paid.
 
 # Insights:
-Here's what I had found out:
+Here's what I found out:
 
 1. Maharashtra and Madhya Pradesh made the most profit.
 2. A guy named Harivansh was the biggest spender, dropping almost 10K INR.
